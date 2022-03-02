@@ -278,6 +278,3 @@ while running:
         turn += 1
 
 input("Input something to end the program: ")
-                        
-        
-                                        
